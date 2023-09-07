@@ -1,2 +1,2 @@
 # INF208-Project
-Embedded systems project
+Embedded systems project w/ yigitalcks
